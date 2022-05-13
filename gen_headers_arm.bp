@@ -617,6 +617,8 @@ gen_headers_out_arm = [
     "linux/vm_sockets.h",
     "linux/vt.h",
     "linux/wireguard.h",
+    "linux/android/binderfs.h",
+    "linux/bpf_perf_event.h",
     "linux/wait.h",
     "linux/wanrouter.h",
     "linux/watchdog.h",
